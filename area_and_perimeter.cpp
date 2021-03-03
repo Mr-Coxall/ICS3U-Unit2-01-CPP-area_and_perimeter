@@ -1,5 +1,7 @@
-// Copyright 2020 MTHS
-// Author: Mr. Coxall
+// Copyright (c) 2020 Mr. Coxall All rights reserved
+//
+// Created by: Mr. Coxall
+// Created on: Sep 2020
 // This program calculates the area and perimeter of a circle
 //    with radius 15mm
 
